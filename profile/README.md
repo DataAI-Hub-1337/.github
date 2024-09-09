@@ -9,6 +9,10 @@ At  DataAI-Hub-1337 Science Club, our mission is to empower learners at all leve
 - **Practice Resources**: Curated websites and platforms to practice and hone your skills.
 - **Community Support**: Join a community of like-minded learners and professionals.
 
+
+## Joining criterias for 1337 Students:
+- **Data Science Piscine on 42 curriculum**
+
 ## 🛤️ Learning Roadmap
 
 ### 1. **Beginner Level**
