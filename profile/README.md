@@ -1,4 +1,4 @@
-# Welcome to the Data Science Club 🎓
+# Welcome DataAI-Hub 1337 Science Club 🎓
 
 ## Our Mission
 At  DataAI-Hub-1337 Science Club, our mission is to empower learners at all levels to master the fields of Data Science and Artificial Intelligence from scratch. Whether you're just starting your journey or looking to refine your skills, we provide a supportive community and resources to help you succeed.
