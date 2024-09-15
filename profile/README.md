@@ -67,3 +67,5 @@ At  DataAI-Hub-1337 Science Club, our mission is to empower learners at all leve
 
 ## 🤝 Join the Community
 Connect with fellow learners, ask questions, and share your progress in our Discord server. Together, we can achieve great things in the world of Data Science and AI!
+
+[![committers.top badge](https://org-badge.committers.top/morocco/dataai-hub-1337.svg)](https://org-badge.committers.top/morocco/dataai-hub-1337)
